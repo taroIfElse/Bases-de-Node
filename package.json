@@ -8,6 +8,7 @@
   "description": "A simple table with a text archive",
   "main": "app.js",
   "scripts": {
+    "production": "",
     "test": "echo \"Error: no test specified\" && exit 1",
     "base1": "node app.js --base2",
     "base3": "nodemon app.js --base=3"
